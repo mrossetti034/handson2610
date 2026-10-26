@@ -1,5 +1,0 @@
-Margaret Elaine Hamilton (née Heafield; August 17, 1936 – September 30, 2026) was an American computer scientist. She directed the Software Engineering Division at the MIT Instrumentation Laboratory, where she led the development of the on-board flight software for NASA's Apollo Guidance Computer for the Apollo program. She later founded the software companies Higher Order Software in 1976 and Hamilton Technologies in 1986 — both in Cambridge, Massachusetts.
-
-Hamilton published more than 130 papers, proceedings, and reports, about sixty projects, and six major programs. She coined the term software engineering, stating, "I began to use the term 'software engineering' to distinguish it from hardware and other kinds of engineering, yet treat each type of engineering as part of the overall systems engineering process."[3][4][5]
-
-On November 22, 2016, Hamilton received the Presidential Medal of Freedom from President Barack Obama for her work leading to the development of on-board flight software for NASA's Apollo moon missions.[6]x
